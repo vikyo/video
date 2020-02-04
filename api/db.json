@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "stream 1 ",
+      "description": "This is 1st stream",
+      "id": 1
+    },
+    {
+      "title": "stream 2",
+      "description": "This is 2nd stream",
+      "id": 2
+    },
+    {
+      "title": "stream 3 ",
+      "description": "This is 3rd stream",
+      "id": 3
+    },
+    {
+      "title": "4th stream edited again nad again",
+      "description": "4th stream edited by me",
+      "id": 4
+    },
+    {
+      "title": "damn",
+      "description": "this is damn stream",
+      "userId": "102598731924802232617",
+      "id": 8
+    }
+  ]
+}
