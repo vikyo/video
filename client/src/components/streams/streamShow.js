@@ -25,7 +25,7 @@ class StreamShow extends Component {
     componentWillUnmount() {
         this.player.destroy();
     }
-
+    // Comment added for testing in test2 branch
     buildPlayer = () => {
         if (this.player || !this.props.stream) return;
 
