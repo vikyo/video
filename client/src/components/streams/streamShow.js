@@ -21,6 +21,7 @@ class StreamShow extends Component {
         this.buildPlayer();
     }
 
+    // Comment added for testing in test1 branch
     componentWillUnmount() {
         this.player.destroy();
     }
